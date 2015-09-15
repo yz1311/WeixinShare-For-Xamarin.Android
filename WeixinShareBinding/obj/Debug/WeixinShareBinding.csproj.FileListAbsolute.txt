@@ -1,0 +1,4 @@
+D:\Projects\NET_Projects\WeixinShareBinding\WeixinShareBinding\bin\Debug\WeixinShareBinding.dll
+D:\Projects\NET_Projects\WeixinShareBinding\WeixinShareBinding\bin\Debug\WeixinShareBinding.pdb
+D:\Projects\NET_Projects\WeixinShareBinding\WeixinShareBinding\obj\Debug\WeixinShareBinding.dll
+D:\Projects\NET_Projects\WeixinShareBinding\WeixinShareBinding\obj\Debug\WeixinShareBinding.pdb

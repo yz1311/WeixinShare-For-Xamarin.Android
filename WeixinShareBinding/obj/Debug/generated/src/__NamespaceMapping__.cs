@@ -1,0 +1,7 @@
+[assembly:global::Android.Runtime.NamespaceMapping (Java = "com.tencent.mm.sdk.constants", Managed="Com.Tencent.MM.Sdk.Constants")]
+[assembly:global::Android.Runtime.NamespaceMapping (Java = "com.tencent.mm.sdk.modelbase", Managed="Com.Tencent.MM.Sdk.Modelbase")]
+[assembly:global::Android.Runtime.NamespaceMapping (Java = "com.tencent.mm.sdk.modelbiz", Managed="Com.Tencent.MM.Sdk.Modelbiz")]
+[assembly:global::Android.Runtime.NamespaceMapping (Java = "com.tencent.mm.sdk.modelmsg", Managed="Com.Tencent.MM.Sdk.Modelmsg")]
+[assembly:global::Android.Runtime.NamespaceMapping (Java = "com.tencent.mm.sdk.modelpay", Managed="Com.Tencent.MM.Sdk.Modelpay")]
+[assembly:global::Android.Runtime.NamespaceMapping (Java = "com.tencent.mm.sdk.openapi", Managed="Com.Tencent.MM.Sdk.Openapi")]
+[assembly:global::Android.Runtime.NamespaceMapping (Java = "com.tencent.wxop.stat", Managed="Com.Tencent.Wxop.Stat")]

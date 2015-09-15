@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="WeixinShareBinding\WeixinShareBinding.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Baytrail0F7745C9" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WeixinShareBinding\Transforms\Metadata.xml">
+    <Files>
+      <File FileName="WeixinShareBinding\obj\Debug\generated\src\Com.Tencent.MM.Sdk.Modelbase.BaseResp.cs" Line="14" Column="146" />
+      <File FileName="WeixinShareBinding\Transforms\Metadata.xml" Line="9" Column="1" />
+      <File FileName="WeixinShareBinding\obj\Debug\generated\src\Com.Tencent.MM.Sdk.Modelmsg.WXMediaMessage.cs" Line="45" Column="155" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
